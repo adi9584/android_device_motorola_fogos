@@ -1,2 +1,10 @@
 # Display
 sys.brightness.disable_gamma_conversion=true
+
+# Audio
+audio.deep_buffer.media=true
+audio.offload.disable=false
+audio.offload.gapless.enabled=false
+audio.offload.min.duration.secs=60
+audio.offload.video=false
+media.aac_51_output_enabled=true
