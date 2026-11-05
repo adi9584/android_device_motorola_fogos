@@ -10,3 +10,7 @@ ro.mot.build.customerid=global
 
 # SKU specific properties
 import /product/etc/hardware.sku.${ro.boot.hardware.sku}.prop
+
+# Infinity X
+ro.infinity.soc=Snapdragon 695
+ro.infinity.camera=50MP + 2MP + 16MP
