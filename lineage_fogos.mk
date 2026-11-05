@@ -27,10 +27,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=motorola/fogos_g/fogos:15/V1UGS35H.75-14-3-10/6668a-36fa40:user/release-keys \
     DeviceProduct=fogos_g
 
-LUNARIS_BUILD_TYPE := UNOFFICIAL
+#Lunaris
 TARGET_OPTIMIZED_DEXOPT := true
 WITH_BCR := true
-WITH_GMS := true
+WITH_GMS := false
 TARGET_SUPPORTED_REFRESH_RATES := 60,90,120
 TARGET_BOOT_ANIMATION_RES := 720
 TARGET_DISABLE_MATLOG := true
