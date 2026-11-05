@@ -12,4 +12,4 @@ ro.mot.build.customerid=global
 import /product/etc/hardware.sku.${ro.boot.hardware.sku}.prop
 
 # Maintainer
-ro.lunaris.maintainer=tiraq
+ro.lunaris.maintainer=Aditya
