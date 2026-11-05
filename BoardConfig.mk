@@ -54,4 +54,4 @@ BOARD_AVB_VBMETA_SYSTEM_ROLLBACK_INDEX := 34
 include vendor/motorola/fogos/BoardConfigVendor.mk
 
 # inherit from proprietary files for motocamera
-include vendor/motorola/motocamera/BoardConfigMotoCamera.mk
+-include vendor/motorola/motocamera/BoardConfigMotoCamera.mk
