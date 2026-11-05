@@ -22,7 +22,7 @@ PRODUCT_MODEL := moto g34 5G
 
 # infinity flags
 
-INFINITY_MAINTAINER := aditya
+INFINITY_MAINTAINER := Aditya
 WITH_GAPPS := true
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
