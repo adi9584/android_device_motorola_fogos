@@ -26,3 +26,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="fogos_g-user 15 V1UGS35H.75-14-3-10 6668a-36fa40 release-keys MV-186" \
     BuildFingerprint=motorola/fogos_g/fogos:15/V1UGS35H.75-14-3-10/6668a-36fa40:user/release-keys \
     DeviceProduct=fogos_g
+
+# Evolution specific Flags
+EVO_BUILD_TYPE := Unofficial
+TARGET_ENABLE_BLUR := true
+TARGET_DISABLE_MATLOG := true
+TARGET_BOOT_ANIMATION_RES := 720
+TARGET_USES_LEGACY_BOOTANIMATION := true
