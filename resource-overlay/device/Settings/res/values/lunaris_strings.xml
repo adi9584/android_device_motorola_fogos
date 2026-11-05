@@ -16,8 +16,8 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lunaris_device_message">Motorola G34/G45 5G</string>
+    <string name="lunaris_device_message">Motorola G34</string>
     <string name="lunaris_processor_code_message">Qualcomm Snapdragon® 695</string>
     <string name="lunaris_battery_type_message">5000 mAh</string>
-    <string name="lunaris_screen_message">IPS LCD 120hz</string>
+    <string name="lunaris_screen_message">120Hz IPS LCD</string>
 </resources>
