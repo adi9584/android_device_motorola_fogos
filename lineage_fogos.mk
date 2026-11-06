@@ -31,8 +31,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 TARGET_ENABLE_BLUR := true
 AXION_CAMERA_REAR_INFO := 50,2
 AXION_CAMERA_FRONT_INFO := 16
-AXION_MAINTAINER := tiraq
-AXION_PROCESSOR := Snapdragon_6s_Gen_3
+AXION_MAINTAINER := Aditya
+AXION_PROCESSOR := Snapdragon_695
 
 # Enable or disable ScrollOptimizer globally
 persist.sys.perf.scroll_opt = true
